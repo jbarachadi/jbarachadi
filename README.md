@@ -1,6 +1,4 @@
-# Hello there 👋
-
-![](https://github.com/jbarachadi/jbarachadi/blob/main/images/download.png)
+![](https://github.com/jbarachadi/jbarachadi/blob/main/images/header.png)
 
 ## About Me :
 
@@ -17,6 +15,7 @@ I love simple and minimalistic designs, and I apply these concepts in my creatio
 ## Development Tools :
 
 <p style="float: left;">
+    <img alt="C" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/c.png" width="48"/>
     <img alt="HTML" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/html.png" width="48"/>
     <img alt="CSS" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/css.png" width="48"/>
     <img alt="JavaScript" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/js.png" width="48"/>
@@ -30,10 +29,11 @@ I love simple and minimalistic designs, and I apply these concepts in my creatio
     <img alt="MySQL" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/mysql.png" width="48"/>
     <img alt="SQLite" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/sqlite.png" width="48"/>
     <img alt="MongoDB" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/mongo.png" width="48"/>
-    <img alt="C" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/c.png" width="48"/>
     <img alt="Flutter" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/flutter.png" width="48"/>
     <img alt="Expo" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/expo.png" width="48"/>
+    <img alt="Postman" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/postman.png" width="48"/>
     <img alt="VSCode" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/vscode.png" width="48"/>
+    <img alt="Heroku" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/heroku.png" width="48"/>
 </p>
 
  
