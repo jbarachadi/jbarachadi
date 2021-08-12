@@ -49,5 +49,5 @@ I love simple and minimalistic designs, and I apply these concepts in my creatio
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbarachadi&hide_langs_below=1&theme=dark&line_height=18&layout=compact" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbarachadi&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbarachadi&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=20" />
 </p>
