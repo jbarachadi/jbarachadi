@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/jbarachadi/jbarachadi/blob/main/images/header.png)
+![](https://github.com/jbarachadi/jbarachadi/blob/main/images/header3.png)
 
 ## About Me :
 
