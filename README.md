@@ -16,30 +16,34 @@ I love simple and minimalistic designs, and I apply these concepts in my creatio
 
 ## Development Tools
 
-<img alt="HTML" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/html.png" width="60"/>
-<img alt="CSS" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/css.png" width="60"/>
-<img alt="JavaScript" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/js.png" width="60"/>
-<img alt="TypeScript" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/ts.png" width="60"/>
-<img alt="React & React Native" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/react.png" width="60"/>
-<img alt="Node.js" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/node.png" width="60"/>
-<img alt="Python" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/python.png" width="60"/>
-<img alt="Flask" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/flask.png" width="60"/>
-<img alt="Java" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/java.png" width="60"/>
-<img alt="Springboot" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/springboot.png" width="60"/>
-<img alt="MySQL" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/mysql.png" width="60"/>
-<img alt="SQLite" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/sqlite.png" width="60"/>
-<img alt="MongoDB" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/mongodb.png" width="60"/>
-<img alt="C" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/c.png" width="60"/>
-<img alt="Flutter" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/flutter.png" width="60"/>
-<img alt="Expo" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/expo.png" width="60"/>
-<img alt="VSCode" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/vscode.png" width="60"/>
+<p style="float: left;">
+    <img alt="HTML" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/html.png" width="48"/>
+    <img alt="CSS" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/css.png" width="48"/>
+    <img alt="JavaScript" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/js.png" width="48"/>
+    <img alt="TypeScript" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/ts.png" width="48"/>
+    <img alt="React & React Native" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/react.png" width="48"/>
+    <img alt="Node.js" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/node.png" width="48"/>
+    <img alt="Python" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/python.png" width="48"/>
+    <img alt="Flask" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/flask.png" width="48"/>
+    <img alt="Java" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/java.png" width="48"/>
+    <img alt="Springboot" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/springboot.png" width="48"/>
+    <img alt="MySQL" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/mysql.png" width="48"/>
+    <img alt="SQLite" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/sqlite.png" width="48"/>
+    <img alt="MongoDB" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/mongo.png" width="48"/>
+    <img alt="C" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/c.png" width="48"/>
+    <img alt="Flutter" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/flutter.png" width="48"/>
+    <img alt="Expo" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/expo.png" width="48"/>
+    <img alt="VSCode" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/vscode.png" width="48"/>
+</p>
 
  
 ## Design Tools
  
-<img alt="Photoshop" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/ps.png" width="60"/>
-<img alt="Illustrator" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/ai.png" width="60"/>
-<img alt="InVision" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/invision.png" width="60"/>
+<p style="float: left;">
+    <img alt="Photoshop" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/ps.png" width="48"/>
+    <img alt="Illustrator" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/ai.png" width="48"/>
+    <img alt="InVision" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/invision.png" width="48"/>
+</p>
 
 * 👑   Some GitHub statistical reports:
 
