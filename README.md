@@ -1,6 +1,6 @@
 ![](https://github.com/jbarachadi/jbarachadi/blob/main/images/header.png)
 
-## About Me :
+## About Me
 
 I am a **Web and Mobile Engineer** that dabbles a bit in **Data Science**. I am also a part-time **Graphic Designer** and **Photographer**. 
 
@@ -12,7 +12,7 @@ I love simple and minimalistic designs, and I apply these concepts in my creatio
 * 📚   Fan of *horror*, *thriller*, and *psychological* genre in books and movies
 * 🌱   Ex-member of many of my school's clubs, I mainly participated in the **Event Organization** and **Design** aspects of the clubs.
 
-## Development Tools :
+## Development Tools
 
 <p style="float: left;">
     <img alt="C" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/c.png" width="48"/>
@@ -37,7 +37,7 @@ I love simple and minimalistic designs, and I apply these concepts in my creatio
 </p>
 
  
-## Design Tools :
+## Design Tools
  
 <p style="float: left;">
     <img alt="Photoshop" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/ps.png" width="48"/>
@@ -45,7 +45,7 @@ I love simple and minimalistic designs, and I apply these concepts in my creatio
     <img alt="InVision" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/invision.png" width="48"/>
 </p>
 
-## Interesting Statistics :
+## Interesting Statistics
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbarachadi&hide_langs_below=1&theme=dark&line_height=18&layout=compact" />
