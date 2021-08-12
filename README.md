@@ -14,18 +14,36 @@ I love simple and minimalistic designs, and I apply these concepts in my creatio
 * 📚   Fan of *horror*, *thriller*, and *psychological* genre in books and movies
 * 🌱   Ex-member of many of my school's clubs, I mainly participated in the **Event Organization** and **Design** aspects of the clubs.
 
-## Programming Languages
+## Development Tools
 
-<img alt="C" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/ai.png" width="30"/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+<img alt="HTML" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/html.png" width="60"/>
+<img alt="CSS" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/css.png" width="60"/>
+<img alt="JavaScript" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/js.png" width="60"/>
+<img alt="TypeScript" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/ts.png" width="60"/>
+<img alt="React & React Native" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/react.png" width="60"/>
+<img alt="Node.js" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/node.png" width="60"/>
+<img alt="Python" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/python.png" width="60"/>
+<img alt="Flask" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/flask.png" width="60"/>
+<img alt="Java" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/java.png" width="60"/>
+<img alt="Springboot" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/springboot.png" width="60"/>
+<img alt="MySQL" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/mysql.png" width="60"/>
+<img alt="SQLite" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/sqlite.png" width="60"/>
+<img alt="MongoDB" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/mongodb.png" width="60"/>
+<img alt="C" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/c.png" width="60"/>
+<img alt="Flutter" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/flutter.png" width="60"/>
+<img alt="Expo" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/expo.png" width="60"/>
+<img alt="VSCode" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/vscode.png" width="60"/>
+
  
- ## Technologies I Use
+## Design Tools
  
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+<img alt="Photoshop" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/ps.png" width="60"/>
+<img alt="Illustrator" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/ai.png" width="60"/>
+<img alt="InVision" src="https://github.com/jbarachadi/jbarachadi/blob/main/images/invision.png" width="60"/>
 
 * 👑   Some GitHub statistical reports:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbarachadi&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbarachadi&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbarachadi&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbarachadi&show_icons=true&count_private=true&include_all_commits=true&line_height=18" alt="My Github Stats" />
 </p>
