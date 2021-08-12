@@ -48,6 +48,6 @@ I love simple and minimalistic designs, and I apply these concepts in my creatio
 * 👑   Some GitHub statistical reports:
 
 <p align="center">
-    <img align="center" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbarachadi&hide_langs_below=1&theme=default&line_height=18&layout=compact" />
-    <img align="center" height="260px" src="https://github-readme-stats.vercel.app/api?username=jbarachadi&show_icons=true&count_private=true&include_all_commits=true&line_height=18" alt="My Github Stats" />
+    <img align="center" height="210px" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbarachadi&hide_langs_below=1&theme=default&line_height=18&layout=compact" />
+    <img align="center" height="210px" width="480px" src="https://github-readme-stats.vercel.app/api?username=jbarachadi&show_icons=true&count_private=true&include_all_commits=true&line_height=18" alt="My Github Stats" />
 </p>
