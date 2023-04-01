@@ -2,13 +2,13 @@
 
 ## About Me
 
-I am a **Web and Mobile Engineer** that dabbles a bit in **Data Science**. I am also a part-time **Graphic Designer** and **Photographer**. 
+I am a **Data Engineer** that dabbles a bit in **Web and Mobile Development**. I am also a part-time **Graphic Designer**. 
 
 I love simple and minimalistic designs, and I apply these concepts in my creations.   
 
-* 💼   Full-Stack developer.
-* 🎓   Web and Mobile Engineer, Web Intelligence specialty at ENSIAS (École Nationale Supérieur d'Informatique et d'Analyse des Systèmes) - Morocco.
-* 💻   Data Science enthusiast, I like to use **Machine Learning** in my projects.
+* 💼   Data Engineer.
+* 🎓   Web and Mobile Engineering, Web Intelligence specialty at ENSIAS (École Nationale Supérieur d'Informatique et d'Analyse des Systèmes) - Morocco.
+* 💻   Web Development enthusiast, I like to use my own designs in my projects.
 * 📚   Fan of *horror*, *thriller*, and *psychological* genre in books and movies
 * 🌱   Ex-member of many of my school's clubs, I mainly participated in the **Event Organization** and **Design** aspects of the clubs.
 
