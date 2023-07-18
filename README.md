@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am a **Data Engineer** that dabbles a bit in **Web and Mobile Development**. I am also a part-time **Graphic Designer**. 
+I am a **Software Engineer** who has a lot of passion for **Web and Mobile Development**. I am also a part-time **Graphic Designer**. 
 
 I love simple and minimalistic designs, and I apply these concepts in my creations.   
 
-* 💼   Data Engineer.
+* 💼   Software Engineer.
 * 🎓   Web and Mobile Engineering, Web Intelligence specialty at ENSIAS (École Nationale Supérieur d'Informatique et d'Analyse des Systèmes) - Morocco.
 * 💻   Web Development enthusiast, I like to use my own designs in my projects.
 * 📚   Fan of *horror*, *thriller*, and *psychological* genre in books and movies
